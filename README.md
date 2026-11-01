@@ -1,4 +1,4 @@
-# Refências-Congresso
+# GEOELECTRIC FIELDS IN THE BRAZILIAN EQUATORIAL REGION DURING THE MAY 2024 GEOMAGNETIC STORM
 
 Alekseev, D., Kuvshinov, A., & Palshin, N. (2015). Compilation of 3D global conductivity model of the Earth for space weather applications. Earth, Planets and Space, 67, 108.
 
